@@ -1,0 +1,50 @@
+body {
+  text-align: left;
+  background-color: hsl(233, 47%, 7%);
+  font-size: 15px;
+  font-family: 'Lexend Deca', sans-serif;
+  color: hsla(0, 0%, 100%, 0.75);
+}
+h1 {
+  font-family: 'Inter', sans-serif;
+  font-weight: bold;
+}
+h1, h3 {
+    color: hsl(0, 0%, 100%);
+}
+h3 {
+  margin-bottom: 0;
+  margin-right: 100px;
+  padding-top: 20px;
+}
+
+table {
+  color: hsla(0, 0%, 100%, 0.75);
+  text-transform: uppercase;
+
+
+}
+img {
+  float: right;
+  width: 500px;
+  background-color: hsl(277, 64%, 61%);
+  
+}
+span {
+  color: hsl(277, 64%, 61%);
+}
+.container {
+  margin:150px auto;
+  width: 1000px;
+
+}
+.inside-container {
+  background-color: hsl(244, 38%, 16%);
+  padding: 50px 60px 90px 60px ;
+}
+.attribution { font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+   color: hsl(228, 45%, 44%);
+  }
